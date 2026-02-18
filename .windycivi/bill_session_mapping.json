@@ -21304,6 +21304,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "SR29": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB4380": {
     "session_id": "2026",
     "name": "2026 Regular Session",
@@ -21803,6 +21808,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "SCR15": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "SB1446": {
     "session_id": "2026",
