@@ -8584,6 +8584,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "SB2184": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SB1283": {
     "session_id": "2026",
     "name": "2026 Regular Session",
@@ -21944,6 +21949,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HCR1020": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "SJR24": {
     "session_id": "2026",
     "name": "2026 Regular Session",
@@ -24263,6 +24273,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HJR1088": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB2172": {
     "session_id": "2025",
