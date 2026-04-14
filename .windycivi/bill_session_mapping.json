@@ -6719,6 +6719,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "SR42": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB2449": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -23044,6 +23049,11 @@
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
   },
+  "HR1051": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB2108": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -23453,6 +23463,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HR1052": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "HB3065": {
     "session_id": "2026",
