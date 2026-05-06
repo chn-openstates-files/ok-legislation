@@ -3334,6 +3334,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "HCR1027": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB2070": {
     "session_id": "2025",
     "name": "2025 Regular Session",
@@ -7888,6 +7893,11 @@
     "session_id": "2025",
     "name": "2025 Regular Session",
     "date_folder": "2025-2025"
+  },
+  "HR1057": {
+    "session_id": "2026",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
   },
   "SB1257": {
     "session_id": "2026",
