@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-sb1526"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -33,15 +37,38 @@
       "_processing": {
         "log_file_created": "2026-01-13T13:04:04Z"
       }
+    },
+    {
+      "description": "Remove as author Senator Daniels; authored by Senator Coleman",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:04Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Business and Insurance",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:04Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Daniels",
+      "name": "Coleman",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Daniels\"}",
+      "person_id": "~{\"name\": \"Coleman\"}",
       "organization_id": null
     }
   ],
@@ -75,6 +102,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T13:04:04Z"
+    "logs_latest_update": "2026-07-15T14:00:04Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-hb3035"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -33,6 +37,31 @@
       "_processing": {
         "log_file_created": "2026-01-13T13:04:04Z"
       }
+    },
+    {
+      "description": "Second Reading referred to Health and Human Services Oversight",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
+      }
+    },
+    {
+      "description": "Referred to Alcohol, Tobacco and Controlled Substances",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -42,6 +71,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Grego\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Murdock",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Murdock\"}",
       "organization_id": null
     }
   ],
@@ -75,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-13T13:04:04Z"
+    "logs_latest_update": "2026-07-15T14:00:06Z"
   }
 }

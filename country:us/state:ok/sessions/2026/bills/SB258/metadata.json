@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-sb258"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -319,6 +323,38 @@
       "_processing": {
         "log_file_created": "2025-12-05T22:43:28Z"
       }
+    },
+    {
+      "description": "HAs rejected, conference requested",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:08Z"
+      }
+    },
+    {
+      "description": "SCs named GCCA",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:08Z"
+      }
+    },
+    {
+      "description": "Conference granted, naming GCCA",
+      "date": "2026-04-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -484,6 +520,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T22:43:28Z"
+    "logs_latest_update": "2026-07-15T14:00:08Z"
   }
 }

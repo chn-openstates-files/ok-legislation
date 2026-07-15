@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-hb1776"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -134,15 +138,25 @@
       "_processing": {
         "log_file_created": "2025-12-05T22:43:25Z"
       }
+    },
+    {
+      "description": "Remove Representative Hill as principal House author and substitute with Representative Gise",
+      "date": "2026-02-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:07Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Hill",
+      "name": "Gise",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Hill\"}",
+      "person_id": "~{\"name\": \"Gise\"}",
       "organization_id": null
     },
     {
@@ -251,6 +265,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T22:43:25Z"
+    "logs_latest_update": "2026-07-15T14:00:07Z"
   }
 }

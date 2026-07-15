@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-hb3094"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -33,6 +37,31 @@
       "_processing": {
         "log_file_created": "2026-01-14T13:03:53Z"
       }
+    },
+    {
+      "description": "Second Reading referred to Judiciary and Public Safety Oversight",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:08Z"
+      }
+    },
+    {
+      "description": "Referred to Civil Judiciary",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:08Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,6 +72,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Jenkins\"}",
       "organization_id": null
+    },
+    {
+      "name": "McIntosh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"McIntosh\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -52,6 +89,17 @@
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 INT/hB/HB3094 INT.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Proposed Policy Committee Substitute 1",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/House/HB3094 POLPCS1 MOLLY JENKINS-GRS.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -75,6 +123,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T13:03:53Z"
+    "logs_latest_update": "2026-07-15T14:00:08Z"
   }
 }

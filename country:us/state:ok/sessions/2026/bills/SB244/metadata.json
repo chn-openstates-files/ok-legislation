@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-sb244"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -224,6 +228,26 @@
       "_processing": {
         "log_file_created": "2025-12-05T22:43:27Z"
       }
+    },
+    {
+      "description": "General Order",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:04Z"
+      }
+    },
+    {
+      "description": "Laid over",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -302,6 +326,17 @@
       "classification": ""
     },
     {
+      "note": "1 Floor Amendment by LEPAK",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/House/SB244 FA1 LEPAKMA-AQH.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Committee Amendment 1",
       "links": [
         {
@@ -367,6 +402,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T22:43:27Z"
+    "logs_latest_update": "2026-07-15T14:00:04Z"
   }
 }

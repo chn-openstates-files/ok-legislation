@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-sb1101"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -182,6 +186,16 @@
       "_processing": {
         "log_file_created": "2025-12-05T22:43:27Z"
       }
+    },
+    {
+      "description": "Remove Representative Tedford as principal House author and substitute with Representative Sneed",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -194,11 +208,11 @@
       "organization_id": null
     },
     {
-      "name": "Tedford",
+      "name": "Sneed",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Tedford\"}",
+      "person_id": "~{\"name\": \"Sneed\"}",
       "organization_id": null
     }
   ],
@@ -258,6 +272,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Proposed Committee Substitute (full committee) 1",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/House/SB1101 FULLPCS1 CHRIS SNEED-MJ.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -299,6 +324,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T22:43:27Z"
+    "logs_latest_update": "2026-07-15T14:00:09Z"
   }
 }

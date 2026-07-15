@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-hr1033"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced",
@@ -31,6 +35,48 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-02-17T13:22:20Z"
+      }
+    },
+    {
+      "description": "Considered",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:07Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative(s) Moore, Sterling, Dobrinski, Staires, West (Josh), Kendrix, Lawson, Cornwell, Dollens, Kane, Sneed, Pogemiller, Kelley, Luttrell, Johns, Roberts, Tedford, Wolfley, Hasenbeck, Newton, Manger, Hill, Boles, Hardin, Kerbs, Schreiber, Lepak, Cantrell, West (Tammy), Townley, Hefner",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:07Z"
+      }
+    },
+    {
+      "description": "Adopted, referred for enrollment",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:07Z"
+      }
+    },
+    {
+      "description": "Enrolled, signed, filed with Secretary of State",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:07Z"
       }
     }
   ],
@@ -56,6 +102,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Floor (House)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLR/HFLR/HR1033 HFLR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled (final version)",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 ENR/hres/HR1033 ENR.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -74,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-02-17T13:22:20Z"
+    "logs_latest_update": "2026-07-15T14:00:07Z"
   }
 }

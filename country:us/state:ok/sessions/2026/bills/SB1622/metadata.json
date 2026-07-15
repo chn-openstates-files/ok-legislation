@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB1622",
-  "title": "Landlord and tenant; creating liabiity for tenants who leave certain unpaid utility rates or charges. Effective date.",
+  "title": "Landlord and tenant; creating liability for tenants who leave certain unpaid utility rates or charges. Effective date.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-sb1622"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -32,6 +36,19 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-01-14T13:03:53Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Judiciary",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:05Z"
       }
     }
   ],
@@ -75,6 +92,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T13:03:53Z"
+    "logs_latest_update": "2026-07-15T14:00:05Z"
   }
 }

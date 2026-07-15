@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-hb1728"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -319,15 +323,35 @@
       "_processing": {
         "log_file_created": "2025-12-05T22:43:27Z"
       }
+    },
+    {
+      "description": "SA's rejected, conference requested, naming GCCA",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:02Z"
+      }
+    },
+    {
+      "description": "Conference granted, SCs named Murdock, Pederson, Green, Kern, Woods, Hicks",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:02Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Moore",
+      "name": "Dobrinski",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Moore\"}",
+      "person_id": "~{\"name\": \"Dobrinski\"}",
       "organization_id": null
     },
     {
@@ -513,6 +537,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T22:43:27Z"
+    "logs_latest_update": "2026-07-15T14:00:02Z"
   }
 }

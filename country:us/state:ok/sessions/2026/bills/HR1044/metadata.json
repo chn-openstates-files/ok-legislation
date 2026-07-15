@@ -68,6 +68,16 @@
       "_processing": {
         "log_file_created": "2026-04-02T13:45:53Z"
       }
+    },
+    {
+      "description": "Enrolled, signed, filed with Secretary of State",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -132,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-04-02T13:45:53Z"
+    "logs_latest_update": "2026-07-15T14:00:09Z"
   }
 }

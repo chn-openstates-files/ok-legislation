@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB1302",
-  "title": "Income tax; elminating certain certification requirement; eliminating requirement to reduce tax rates upon certain certification. Effective date.",
+  "title": "Income tax; eliminating certain certification requirement; eliminating requirement to reduce tax rates upon certain certification. Effective date.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-sb1302"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -32,6 +36,31 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-30T12:59:49Z"
+      }
+    },
+    {
+      "description": "Second Reading referred to Revenue and Taxation Committee then to Appropriations Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:03Z"
+      }
+    },
+    {
+      "description": "Failed in Committee - Revenue and Taxation",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:03Z"
       }
     }
   ],
@@ -75,6 +104,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-30T12:59:49Z"
+    "logs_latest_update": "2026-07-15T14:00:03Z"
   }
 }

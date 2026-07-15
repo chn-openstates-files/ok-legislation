@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-hr1038"
+    }
+  ],
   "actions": [
     {
       "description": "Introduced",
@@ -63,6 +67,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-03-17T13:42:31Z"
+      }
+    },
+    {
+      "description": "Enrolled, signed, filed with Secretary of State",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:02Z"
       }
     }
   ],
@@ -128,6 +142,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-03-17T13:42:31Z"
+    "logs_latest_update": "2026-07-15T14:00:02Z"
   }
 }

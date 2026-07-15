@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-sb1611"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -33,6 +37,29 @@
       "_processing": {
         "log_file_created": "2026-01-14T13:03:53Z"
       }
+    },
+    {
+      "description": "Second Reading referred to Retirement and Government Resources Committee then to Appropriations Committee",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:02Z"
+      }
+    },
+    {
+      "description": "Coauthored by Representative Chapman (principal House author)",
+      "date": "2026-03-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -43,6 +70,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Frix\"}",
       "organization_id": null
+    },
+    {
+      "name": "Chapman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chapman\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -52,6 +87,28 @@
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 INT/SB/SB1611 INT.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment 1",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/Senate/SB1611 CA1.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment 2",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/Senate/SB1611 CA2.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -75,6 +132,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2026-01-14T13:03:53Z"
+    "logs_latest_update": "2026-07-15T14:00:02Z"
   }
 }

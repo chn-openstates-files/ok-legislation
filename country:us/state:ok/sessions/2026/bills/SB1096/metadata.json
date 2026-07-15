@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-sb1096"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -87,6 +91,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-12-05T22:43:26Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Mann",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
       }
     }
   ],
@@ -183,6 +197,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T22:43:26Z"
+    "logs_latest_update": "2026-07-15T14:00:06Z"
   }
 }

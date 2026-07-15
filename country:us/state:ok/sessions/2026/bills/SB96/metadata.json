@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB96",
-  "title": "Public health and safety; prohibiting the manufacture, sell, hold or offer for sale, or distribution of cultivated meat; violation. Effective date.",
+  "title": "Public health and safety; prohibiting the manufacture, sell, hold or offer for sale, or distribution of cultivated meat; authorizing certain enforcement meassures by the State Department of Health. Effective date.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-sb96"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -279,6 +283,116 @@
       "_processing": {
         "log_file_created": "2025-12-05T22:43:24Z"
       }
+    },
+    {
+      "description": "Coauthored by Senator Kern",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
+      }
+    },
+    {
+      "description": "remove as principal author Representative Burns and substitute with Representative Travis",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Coleman",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Murdock",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Green",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Jech",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Hall",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Logan",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Woods",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Sacchieri",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
+      }
+    },
+    {
+      "description": "Coauthored by Senator Burns",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:06Z"
+      }
     }
   ],
   "sponsorships": [
@@ -291,11 +405,11 @@
       "organization_id": null
     },
     {
-      "name": "Burns",
+      "name": "Travis",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Burns\"}",
+      "person_id": "~{\"name\": \"Travis\"}",
       "organization_id": null
     }
   ],
@@ -451,6 +565,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T22:43:24Z"
+    "logs_latest_update": "2026-07-15T14:00:06Z"
   }
 }

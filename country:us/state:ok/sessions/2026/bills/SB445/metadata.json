@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-sb445"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -300,6 +304,16 @@
       "_processing": {
         "log_file_created": "2025-12-05T22:43:27Z"
       }
+    },
+    {
+      "description": "Remove Representative Turner as principal House author and substitute with Representative Ford",
+      "date": "2026-03-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -312,11 +326,11 @@
       "organization_id": null
     },
     {
-      "name": "Turner",
+      "name": "Ford",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Turner\"}",
+      "person_id": "~{\"name\": \"Ford\"}",
       "organization_id": null
     }
   ],
@@ -376,6 +390,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Proposed Policy Committee Substitute 1",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/House/SB445 POLPCS1 ROSS FORD-MJ.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -406,6 +431,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T22:43:27Z"
+    "logs_latest_update": "2026-07-15T14:00:04Z"
   }
 }

@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-hb1730"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -185,6 +189,16 @@
       "_processing": {
         "log_file_created": "2025-12-05T22:43:28Z"
       }
+    },
+    {
+      "description": "Remove as author Senator Gollihare; authored by Senator Rader",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -197,11 +211,11 @@
       "organization_id": null
     },
     {
-      "name": "Gollihare",
+      "name": "Rader",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Gollihare\"}",
+      "person_id": "~{\"name\": \"Rader\"}",
       "organization_id": null
     }
   ],
@@ -302,6 +316,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T22:43:28Z"
+    "logs_latest_update": "2026-07-15T14:00:05Z"
   }
 }

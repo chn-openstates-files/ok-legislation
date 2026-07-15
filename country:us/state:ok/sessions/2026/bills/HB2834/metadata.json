@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-hb2834"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -185,6 +189,16 @@
       "_processing": {
         "log_file_created": "2025-12-05T22:43:26Z"
       }
+    },
+    {
+      "description": "Remove as author Senator Woods; authored by Senator Stanley",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:05Z"
+      }
     }
   ],
   "sponsorships": [
@@ -197,11 +211,11 @@
       "organization_id": null
     },
     {
-      "name": "Woods",
+      "name": "Stanley",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Woods\"}",
+      "person_id": "~{\"name\": \"Stanley\"}",
       "organization_id": null
     }
   ],
@@ -291,6 +305,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T22:43:26Z"
+    "logs_latest_update": "2026-07-15T14:00:05Z"
   }
 }

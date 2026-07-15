@@ -9,7 +9,11 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-ok-2026-hb2140"
+    }
+  ],
   "actions": [
     {
       "description": "First Reading",
@@ -225,6 +229,16 @@
       "_processing": {
         "log_file_created": "2025-12-05T22:43:28Z"
       }
+    },
+    {
+      "description": "Remove as author Senator Thompson; authored by Senator Guthrie",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:00:02Z"
+      }
     }
   ],
   "sponsorships": [
@@ -237,11 +251,11 @@
       "organization_id": null
     },
     {
-      "name": "Thompson (Kristen)",
+      "name": "Guthrie",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Thompson (Kristen)\"}",
+      "person_id": "~{\"name\": \"Guthrie\"}",
       "organization_id": null
     }
   ],
@@ -296,6 +310,17 @@
       "links": [
         {
           "url": "https://www.oklegislature.gov/cf_pdf/2025-26 FLOOR AMENDMENTS/House/HB2140 FA1 KANNADYCH-MAH(UNTIMELY FILED).PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Committee Amendment 1",
+      "links": [
+        {
+          "url": "https://www.oklegislature.gov/cf_pdf/2025-26 COMMITTEE AMENDMENTS/Senate/HB2140 CA1.PDF",
           "media_type": "application/pdf"
         }
       ],
@@ -368,6 +393,6 @@
     "division_id": "ocd-division/country:us/state:ok"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-05T22:43:28Z"
+    "logs_latest_update": "2026-07-15T14:00:02Z"
   }
 }
